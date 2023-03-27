@@ -19,15 +19,15 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: watching haikyuu
+site_url: https://lenlenxv.github.io/mkdocs-material/
+site_author: V
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
+repo_name: https://github.com/lenlenxv/mkdocs-material/edit/master/mkdocs.yml
 repo_url: https://github.com/squidfunk/mkdocs-material
 
 # Copyright
